@@ -52,11 +52,8 @@ Currently, I am doing my Master's in Computer Applications (MCA) at CHRIST (Deem
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 &nbsp; &nbsp; &nbsp; 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![XD](https://img.shields.io/badge/-XD-333333?style=flat&logo=adobe-xd)
-  ![Premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro)
-
 <br/>
 
 <h3> 💁‍♂️  &nbsp;Some Stats for nerds:-</h3>
